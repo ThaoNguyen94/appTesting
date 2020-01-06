@@ -1,0 +1,184 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>C:\Users\Admin\Downloads\assgment</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/AspNetWebApi.dll">
+      <publishTime>12/28/2019 21:56:27</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>12/28/2019 21:40:01</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>12/28/2019 21:40:03</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>12/28/2019 21:40:04</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.WebHost.dll">
+      <publishTime>12/28/2019 21:40:04</publishTime>
+    </File>
+    <File Include="Css/GetAlbums.css">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/close.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/DialogHeader.png">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/DialogHighlight.png">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/DialogSelection.png">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/DialogStrip.png">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/edit.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/EditBlue.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/EditWhite.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/HeaderGradient.png">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/help.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/home.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/Info.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/LightBlueGradient.png">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/LightOrangeGradient.png">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/loading_black.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/loading_small.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/MenuHighlight.png">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/New.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/next.png">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/prev.png">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/refresh.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/Remove.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/search.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/Sort.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/TabHover.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/TabNormal.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/TabSelected.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/users.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Images/warning.gif">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Reset.css">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Css/Standard.css">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="default.htm">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="GetAlbums.htm">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="GetAlbums.js">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Global.asax">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="HttpClient_Requests.aspx">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Images/Load16.png">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Images/SailBig.jpg">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="JsonpClient.htm">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="MulitplePostVariables.htm">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>12/28/2019 21:51:48</publishTime>
+    </File>
+    <File Include="RpcCalls.htm">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="scripts/jquery-vsdoc.js">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="scripts/jquery.js">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="scripts/jquery.min.js">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="scripts/knockout-2.0.0.js">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="scripts/knockout-mapping.js">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="scripts/ww.jquery.js">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="scripts/ww.jquery.min.js">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="scripts/_reference.js">
+      <publishTime>11/11/2017 11:25:13</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>12/28/2019 21:56:28</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
